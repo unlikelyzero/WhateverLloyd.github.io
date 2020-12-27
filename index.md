@@ -38,16 +38,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-### _Cirriculum Vitae_
+## _Cirriculum Vitae_
 
-## EDUCATION
+### EDUCATION
 
-## WORK EXPERIENCE
+### WORK EXPERIENCE
 
-## VOLUNTEER EXPERIENCE
+### VOLUNTEER EXPERIENCE
 
-## PRESENTATIONS
+### PRESENTATIONS
 
-## PUBLICATIONS
+### PUBLICATIONS
 
 
