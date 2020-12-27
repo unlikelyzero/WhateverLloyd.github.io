@@ -17,7 +17,7 @@ Asheville, NC<br/>
 #### WORK EXPERIENCE
 
 _Research Technician_<br/>
-May 2018 - Dec. 2020
+May 2018 - Dec. 2020<br/>
 Marine Resources Research Institute at South Carolina Department of Natural Resources<br/>
 Charleston, SC<br/>
 
