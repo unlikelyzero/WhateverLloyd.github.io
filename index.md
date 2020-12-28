@@ -96,7 +96,7 @@ _Undergraduate Research Assistant_<br/>
 Jun. 2012 - Jul. 2012<br/>
 University of North Carolina at Asheville (Asheville, NC)<br/>
 
-_Elementary School Tutor_
+_Elementary School Tutor_<br/>
 Jan. 2012 - May 2012<br/>
 Emma Elementary School (Asheville, NC)<br/>
 
