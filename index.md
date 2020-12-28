@@ -1,9 +1,9 @@
 <img src="./images/headshot.jpg" height="240" width="240">
 
 ## _Cirriculum Vitae_
+<a href="./bio">About Me</a>
 
-
-<a href="./cv_page">cv link</a>
+<a href="./cv_page">CV</a>
 
 <a href="./story_maps">GIS Story Maps</a>
 
