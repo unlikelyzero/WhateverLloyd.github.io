@@ -100,10 +100,6 @@ Emma Elementary School (Asheville, NC)<br/>
 
 ### PRESENTATIONS & PUBLICATIONS
 
-
-
-[Thesis Defense, Aug. 2020](https://cofc.zoom.us/rec/play/LXMIcVVWEl831cCIu4LPiqY1Cp9zD5XkzIMyNwJza71_qTxDxrZXPSnL6BWBAmt7k0LR9aTyHJ6oOTgf.dt9MM7lSXoafXMWo?continueMode=true&_x_zm_rtaid=Q0MYx0kVTraUnroOM-f63w.1609175441645.ea8810ba1beacf0f776152bfa87912ef&_x_zm_rhtaid=24)
-
 __Hill, K. L.__, Tweel, A., Johnson, S., & Sanger, D., (2019, November). _Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast_ \[oral presentation\]. Twenty-fifth biennial Coastal and Estuarine Research Federation (CERF) conference, Mobile, AL.   
 
 __Hill, K. L.__, Tweel, A., Johnson, S., & Sanger, D., (2019, June). _Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast_ \[oral presentation\]. Seventeenth annual Climate Prediction Applications Science Workshop, Charleston, SC.
