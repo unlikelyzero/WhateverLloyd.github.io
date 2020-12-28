@@ -3,7 +3,7 @@
 ## _Cirriculum Vitae_
 
 
-<a href="./cv_page.md">cv link</a>
+<a href="./cv_page">cv link</a>
 
 <a href="./story_maps">GIS Story Maps</a>
 
