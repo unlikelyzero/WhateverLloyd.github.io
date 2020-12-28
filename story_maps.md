@@ -1,3 +1,6 @@
-<html>
-<iframe width="100%" height="800px" src="https://scgis.maps.arcgis.com/apps/Cascade/index.html?appid=abc803c3f26d40778a9a1c092d98bdef" frameborder="0" scrolling="yes"></iframe>
-</html>
+[A History of Oysters in South Carolina](https://arcg.is/1u8mbT)</br>
++ This GIS story map was created for a final project for an applied mariculture course and documents the history of the Eastern oyster in South Carolina.</br>
+[Holy City Walking Tour](https://arcg.is/0q5nDq)</br>
++ For my Introduction to GIS class's final project, I created this interactive story map of downtown Charleston for the Geological Society of America's Southeastern Section 68th Annual Meeting.</br>
+[My GIS Portfolio](https://arcg.is/1qDiHa0)</br>
++ This story map showcases the different labs and projects I completed during my Introduction to GIS class. 
