@@ -1,4 +1,4 @@
-<img src="https://github.com/WhateverLloyd/WhateverLloyd.github.io/blob/main/images/headshot.jpg" height="240" width="480">
+<img src="https://github.com/WhateverLloyd/WhateverLloyd.github.io/blob/main/images/headshot.jpg" height="240" width="240">
 
 ## _Cirriculum Vitae_
 
