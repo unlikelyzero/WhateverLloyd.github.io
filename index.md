@@ -1,3 +1,5 @@
+<img src="https://github.com/WhateverLloyd/WhateverLloyd.github.io/images/headshot.jpg" height="240" width="480">
+
 ## _Cirriculum Vitae_
 
 #### EDUCATION
