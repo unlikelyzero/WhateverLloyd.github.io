@@ -20,31 +20,51 @@ Asheville, NC<br/>
 
 _Research Technician_<br/>
 May 2018 - Dec. 2020<br/>
-South Carolina Department of Natural Resources, Marine Resources Research Institute<br/>
-Charleston, SC<br/>
+South Carolina Department of Natural Resources, Marine Resources Research Institute (Charleston, SC)<br/>
 
 _Environmental Hydrologist_<br/>
 Jan. 2020 - Apr. 2020<br/>
-Robinson Design Engineers<br/>
-Charleston, SC<br/>
+Robinson Design Engineers (Charleston, SC)<br/>
 
 _Office Assistant_<br/>
 Aug. 2018 - Dec. 2018<br/>
-The Graduate School at the College of Charleston<br/>
-Charleston, SC<br/>
+The Graduate School at the College of Charleston (Charleston, SC)<br/>
 
 _Forestry Technician_<br/>
 May 2017 - Nov. 2017<br/>
-Great Smokey Mountains National Park<br/>
-Cherokee, NC<br/>
+Great Smokey Mountains National Park (Cherokee, NC)<br/>
 
 _Wildlife Biologist_<br/>
 Nov. 2016 - Apr. 2017<br/>
-The Great Basin Institute<br/>
-Death Valley, CA<br/>
+The Great Basin Institute (Death Valley, CA)<br/>
 
+_Biological Science Technician (Wildlife)_<br/>
+May 2016 - Nov. 2016<br/>
+Olympic National Park (Port Angeles, WA)<br/>
 
+_Biological Science Technician (Wildlife)_<br/>
+May 2015 - Oct. 2015<br/>
+Cape Hatteras National Seashore (Buxton, NC)<br/>
 
+_Biological Science Technician (Wildlife)_<br/>
+Nov. 2014 - Mar. 2015<br/>
+Haleakala National Park (Kula, HI)<br/>
+
+_Forestry Research Technician_<br/>
+May 2014 - Oct. 2014<br/>
+Juneau Forestry Sciences Laboratory (Juneau, AK)<br/>
+
+_Vegetation Technician_<br/>
+Sep. 2013 - Apr. 2014<br/>
+Death Valley National Park (Death Valley, CA)<br/>
+
+_AmeriCorps Conservation Crew Member_<br/>
+May 2013 - Sep. 2013<br/>
+SAGA (Juneau, AK)<br/>
+
+_Wildlife Biologist Intern_<br/>
+May 2012 - Aug. 2012<br/>
+North Carolina Wildlife Resources Commission (Asheville, NC)<br/>
 
 #### VOLUNTEER EXPERIENCE
 
