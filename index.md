@@ -28,6 +28,24 @@ Jan. 2020 - Apr. 2020<br/>
 Robinson Design Engineers<br/>
 Charleston, SC<br/>
 
+_Office Assistant_<br/>
+Aug. 2018 - Dec. 2018<br/>
+The Graduate School at the College of Charleston<br/>
+Charleston, SC<br/>
+
+_Forestry Technician_<br/>
+May 2017 - Nov. 2017<br/>
+Great Smokey Mountains National Park<br/>
+Cherokee, NC<br/>
+
+_Wildlife Biologist_<br/>
+Nov. 2016 - Apr. 2017<br/>
+The Great Basin Institute<br/>
+Death Valley, CA<br/>
+
+
+
+
 #### VOLUNTEER EXPERIENCE
 
 #### PRESENTATIONS & PUBLICATIONS
