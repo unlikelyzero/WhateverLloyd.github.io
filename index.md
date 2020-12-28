@@ -5,7 +5,7 @@
 
 <a href="./cv_page.md">cv link</a>
 
-<a href="./story_maps.md">GIS Story Maps</a>
+<a href="./story_maps">GIS Story Maps</a>
 
 ### EDUCATION
 
