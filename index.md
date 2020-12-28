@@ -2,7 +2,7 @@
 
 ## _Cirriculum Vitae_
 
-#### EDUCATION
+### EDUCATION
 
 _Master of Science_ in Environmental Studies<br/>
 Thesis Title: "Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast"<br/>
@@ -16,7 +16,7 @@ Aug. 2008 - Dec. 2012<br/>
 University of North Carolina at Asheville<br/>
 Asheville, NC<br/>
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 
 _Research Technician_<br/>
 May 2018 - Dec. 2020<br/>
@@ -66,9 +66,41 @@ _Wildlife Biologist Intern_<br/>
 May 2012 - Aug. 2012<br/>
 North Carolina Wildlife Resources Commission (Asheville, NC)<br/>
 
-#### VOLUNTEER EXPERIENCE
+### VOLUNTEER EXPERIENCE
 
-#### PRESENTATIONS & PUBLICATIONS
+_Botany Assistant_<br/>
+Dec. 2019<br/>
+Black River Cypress Preserve (Georgetown Co., SC)<br/>
+
+_Oyster Farmer_<br/>
+Jan. 2019 - May 2019<br/>
+Charleston Oyster Farm (Charleston, SC)<br/>
+
+_Student Garden Worker_<br/>
+Jun. 2018 - Sep. 2019<br/>
+The College of Charleston at Stono Preserve (Hollywood, SC)<br/>
+
+_Trail Worker_<br/>
+Feb. 2016 - Mar. 2016<br/>
+Triangle Land Conservancy (Durham, NC)<br/>
+
+_Conservation Volunteer_<br/>
+Feb. 2015<br/>
+Maui Forest Bird Recovery Project (Makawao, HI)<br/>
+
+_Archaeology Volunteer_<br/>
+Jul. 2014<br/>
+Denali National Park (Denali Park, AK)<br/>
+
+_Undergraduate Research Assistant_<br/>
+Jun. 2012 - Jul. 2012<br/>
+University of North Carolina at Asheville (Asheville, NC)<br/>
+
+_Elementary School Tutor_
+Jan. 2012 - May 2012<br/>
+Emma Elementary School (Asheville, NC)<br/>
+
+### PRESENTATIONS & PUBLICATIONS
 
 __Hill, K. L.__, Tweel, A., Johnson, S., & Sanger, D., (2019, November). _Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast_ \[oral presentation\]. Twenty-fifth biennial Coastal and Estuarine Research Federation (CERF) conference, Mobile, AL.   
 
