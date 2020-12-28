@@ -5,6 +5,8 @@
 
 <a href="./cv_page.md">cv link</a>
 
+<a href="./story_maps.md">GIS Story Maps</a>
+
 ### EDUCATION
 
 _Master of Science_ in Environmental Studies<br/>
