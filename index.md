@@ -2,6 +2,9 @@
 
 ## _Cirriculum Vitae_
 
+
+<a href="./cv_page.md">cv link</a>
+
 ### EDUCATION
 
 _Master of Science_ in Environmental Studies<br/>
