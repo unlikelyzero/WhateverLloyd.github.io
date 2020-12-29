@@ -2,9 +2,9 @@
 
 ### EDUCATION
 
-**M.S., Environmental Studies, College of Charleston, 2020**<br/>
+**M.S., Environmental Studies**, College of Charleston, 2020<br/>
 
-**B.S., Environmental Studies, University of North Carolina at Asheville, 2012**<br/>
+**B.S., Environmental Studies**, University of North Carolina at Asheville, 2012<br/>
 
 ### WORK EXPERIENCE
 
