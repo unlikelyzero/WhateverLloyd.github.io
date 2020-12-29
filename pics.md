@@ -1,8 +1,7 @@
 ## Photography and Art
 <details>
   <summary>Collages</summary>
-  A series of original postcards. 2020.</br>
-  </br>
+  A series of original postcards. 2020.
 <img src="./images/collage1.jpg" height="240" width="360">
 <img src="./images/collage2.jpg" height="240" width="360">
 <img src="./images/collage3.jpg" height="240" width="360">
@@ -23,8 +22,7 @@
 
 <details>
   <summary>Prints</summary>
-  Linoleum prints depicting electron micrographs of diatoms, radiolaria, foram. 2012.</br>
-  </br>
+  Linoleum prints depicting electron micrographs of diatoms, radiolaria, foram. 2012.
 <img src="./images/print1.jpg" height="240" width="240">
 <img src="./images/print2.jpg" height="240" width="240">
 <img src="./images/print4.jpg" height="240" width="240">
