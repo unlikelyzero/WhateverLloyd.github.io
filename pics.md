@@ -1,6 +1,8 @@
 ## Photography and Art
 <details>
   <summary>Collages</summary>
+  A series of original postcards, Summer 2020</br>
+  </br>
 <img src="./images/collage1.jpg" height="240" width="360">
 <img src="./images/collage2.jpg" height="240" width="360">
 <img src="./images/collage3.jpg" height="240" width="360">
