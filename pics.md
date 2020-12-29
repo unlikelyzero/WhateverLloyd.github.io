@@ -25,11 +25,11 @@
   <summary>Prints</summary>
   Linoleum prints depicting electron micrographs of diatoms, radiolaria, foram. 2012.</br>
   </br>
-<img src="./images/print1.jpg" height="240" width="360">
-<img src="./images/print2.jpg" height="240" width="360">
-<img src="./images/print4.jpg" height="240" width="360">
-<img src="./images/print3.jpg" height="240" width="360">
-<img src="./images/print5.jpg" height="240" width="360">
-<img src="./images/print6.jpg" height="240" width="360">
+<img src="./images/print1.jpg" height="240" width="240">
+<img src="./images/print2.jpg" height="240" width="240">
+<img src="./images/print4.jpg" height="240" width="240">
+<img src="./images/print3.jpg" height="240" width="240">
+<img src="./images/print5.jpg" height="240" width="240">
+<img src="./images/print6.jpg" height="240" width="240">
 
 </details>
