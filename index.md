@@ -1,6 +1,6 @@
 <a href="./bio">About Me</a>
 
-<a href="./contact">Contact</a>
+<a href="./contact">Contact & Social Media</a>
 
 <a href="./cv_page">CV</a>
 
