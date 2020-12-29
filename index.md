@@ -5,3 +5,5 @@
 <a href="./thesis">Thesis</a>
 
 <a href="./story_maps">GIS Story Maps</a>
+
+<a href="./pics">Art & Photography</a>
