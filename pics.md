@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary>Collages</summary>
+  <summary>Prints</summary>
   Linoleum prints depicting electron micrographs of diatoms, radiolaria, foram. 2012.</br>
   </br>
 <img src="./images/print1.jpg" height="240" width="360">
