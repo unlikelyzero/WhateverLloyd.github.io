@@ -3,12 +3,12 @@
   <summary>Collages</summary>
   A series of original postcards. 2020.<br/>
 <img src="./images/collage9.jpg" height="320" width="480">
-<img src="./images/collage2.jpg" height="320" width="480">
+<img src="./images/collage7.jpg" height="320" width="480">
 <img src="./images/collage3.jpg" height="320" width="480">
 <img src="./images/collage4.jpg" height="320" width="480">
 <img src="./images/collage5.jpg" height="320" width="480">
 <img src="./images/collage6.jpg" height="320" width="480">
-<img src="./images/collage7.jpg" height="320" width="480">
+<img src="./images/collage2.jpg" height="320" width="480">
 <img src="./images/collage8.jpg" height="320" width="480">
 <img src="./images/collage1.jpg" height="320" width="480">
 <img src="./images/collage10.jpg" height="320" width="480">
