@@ -8,4 +8,4 @@
 
 <a href="./story_maps">GIS Story Maps</a>
 
-<a href="./pics">Art & Photography</a>
+<a href="./photographyetc">Photography, etc. </a>
