@@ -49,9 +49,10 @@
 <details>
   <summary>Newsprint</summary> 
 <img src="./images/metabolism-1.jpg">
-  In a future where everyone's tired of ice cream from the future. <i>Metabolism</i> 6.3 (2011). <br/>
+  "In a future where everyone's tired of ice cream from the future." <i>Metabolism</i> 6.3 (2011).<br/>
+  <br/>
 <img src="./images/metabolism-2.jpg">
-  Waldeinsamkeit I, II, and III. <i>Metabolism</i> 7.1 (2012).
+  "Waldeinsamkeit I, II, and III." <i>Metabolism</i> 7.1 (2012).
 </details>
 
 
