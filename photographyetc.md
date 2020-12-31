@@ -2,6 +2,7 @@
 
 <details>
   <summary>Darkroom</summary>
+  
   Results from a DIY darkroom in the Pearson House basement. 2010.<br/>
 <img src="./images/darkoom-5.jpg">
 <img src="./images/darkroom-2.jpg">
@@ -11,11 +12,13 @@
 <img src="./images/darkroom-9.jpg">
 <img src="./images/darkroom-10.jpg">
 <img src="./images/darkroom-11.jpg">
+<summary>Collapse</summary>
 
 </details>
 
 <details>
   <summary>Collages</summary>
+  
   A series of original postcards. 2020.<br/>
 <img src="./images/collage-9.jpg">
 <img src="./images/collage-7.jpg">
@@ -37,6 +40,7 @@
 
 <details>
   <summary>Prints</summary>
+  
   Linoleum prints of electron micrographs of diatoms, radiolaria, foram. 2012.<br/>
 <img src="./images/print-1.jpg">
 <img src="./images/print-2.jpg">
@@ -47,7 +51,8 @@
 </details>
 
 <details>
-  <summary>Newsprint</summary> 
+  <summary>Newsprint</summary>
+  
 <img src="./images/metabolism-1.jpg">
   "In a future where everyone's tired of ice cream from the future." <i>Metabolism</i> 6.3 (2011).<br/>
   <br/>
