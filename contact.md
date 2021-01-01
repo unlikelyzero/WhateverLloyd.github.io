@@ -6,4 +6,4 @@ GitHub: [WhateverLloyd](https://github.com/WhateverLloyd)<br/>
 Instagram: [@WhateverLloyd](https://www.instagram.com/whateverlloyd/)<br/>
 iNaturalist: [agnus_scythicus](https://www.inaturalist.org/people/agnus_scythicus)<br/>
 
-[&#8592;](./index)
+[&#8592;](./bio)     [&#8962;](./index)     [&#8594;](./cv)
