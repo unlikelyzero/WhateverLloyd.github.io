@@ -1,3 +1,5 @@
+## GIS Story Maps
+
 [A History of Oysters in South Carolina](https://arcg.is/1u8mbT)
 + This GIS story map was created for a final project for an applied mariculture course and documents the history of the Eastern oyster in South Carolina.<br/>
 
@@ -7,4 +9,4 @@
 [My GIS Portfolio](https://arcg.is/1qDiHa0)
 + This story map showcases the different labs and projects I completed during my Introduction to GIS class.<br/>
 
-[&#8592;](./index)
+[&#8592;](./thesis)     [&#8962;](./index)     [&#8594;](./art)
