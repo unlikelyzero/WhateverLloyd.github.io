@@ -2,10 +2,10 @@
 
 <a href="./contact">Contact & Social Media</a>
 
-<a href="./cv_page">CV</a>
+<a href="./cv">CV</a>
 
 <a href="./thesis">Thesis</a>
 
-<a href="./story_maps">GIS Story Maps</a>
+<a href="./maps">GIS Story Maps</a>
 
-<a href="./photographyetc">Photography, etc. </a>
+<a href="./art">Photography, etc. </a>
