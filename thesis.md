@@ -1,4 +1,4 @@
-## Thesis
+### Thesis
 
 "Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast"
 
