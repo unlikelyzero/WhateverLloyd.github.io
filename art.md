@@ -2,6 +2,7 @@
 
 [Charleston](./art-charleston)<br/>
 [Collage](./art-collage)<br/>
+[Databent](./art-databent)<br/>
 [Prints](./art-prints)<br/>
 [Newsprint](./art-newsprint)<br/>
 [Darkroom](./art-darkroom)<br/>
