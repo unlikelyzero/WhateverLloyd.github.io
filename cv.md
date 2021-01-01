@@ -80,6 +80,6 @@ Brown, C. E., __Hill, K.__, & Fanning, R., Callahan, T., & Robinson, J., (2018, 
 
 __Hill, K. L.__, Phillips, M., Rence, E., Callahan, T., & Robinson, J., (2018, April). _Long Branch restoration: improving ecosystem services of a tidal creek in a changing city_ \[poster presentation\]. College of Charleston Science and Mathematics Poster Session, Charleston, SC.
 
-Williams, L. A., Beane, J., Hardman, R., __Hill, K.__, & Stroebel, M., (2012). _Ambystoma opacum_ (marbled salamander) geographic distribution note. _Herpetological Review_, 43(4), 611.
+Williams, L. A., Beane, J., Hardman, R., __Hill, K.__, & Stroebel, M., (2012). _Ambystoma opacum_ (marbled salamander) geographic distribution note. _Herpetological Review_, 43(4), 611.<br/>
 
-[&#8592;](./index)
+[&#8592;](./contact)     [&#8962;](./index)     [&#8594;](./thesis)
