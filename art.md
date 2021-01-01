@@ -77,4 +77,4 @@
   "Waldeinsamkeit I, II, and III." <i>Metabolism</i> 7.1 (2012).
 </details>
 
-
+[&#8592;](./maps)     [&#8962;](./index)
