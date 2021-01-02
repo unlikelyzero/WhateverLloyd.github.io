@@ -1,7 +1,5 @@
 ## Photography, etc.<br/>
 
-### Collages<br/>
-
 A series of original postcards. 2020.<br/>
 <img src="./images/collage-1.jpg">
 <img src="./images/collage-2.jpg">
