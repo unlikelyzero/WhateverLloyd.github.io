@@ -1,7 +1,5 @@
 ## Photography, etc.<br/>
 
-### Databent<br/>
-
 Film scans proccessed as audio files. 2014.<br/>
 <img src="./images/branches-1.jpg">
 <img src="./images/branches-2.jpg">
