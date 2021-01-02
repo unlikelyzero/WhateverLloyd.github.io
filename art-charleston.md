@@ -1,6 +1,6 @@
 ## Photography, etc.<br/>
 
-Film photography around Charleston. 2020.
+Film photography around Charleston. 2020.<br/>
 <br/>
 <img src="./images/charleston-1.jpg">
 <img src="./images/charleston-2.jpg">
