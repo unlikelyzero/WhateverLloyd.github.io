@@ -4,6 +4,7 @@
 [Collage](./art-collage)<br/>
 [Roadtrip](./art-roadtrip)<br/>
 [Databent](./art-databent)<br/>
+[Death Valley](./art-deathvalley)<br/>
 [Prints](./art-prints)<br/>
 [Newsprint](./art-newsprint)<br/>
 [Darkroom](./art-darkroom)<br/>
