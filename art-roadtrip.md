@@ -1,8 +1,7 @@
 ## Photography, etc.<br/>
 
-### Roadtrip<br/>
-
 Film from a road trip between Crater Lake and the Washington coast. 2018.<br/>
+<br/>
 <img src="./images/roadtrip-1.jpg">
 <img src="./images/roadtrip-2.jpg">
 <img src="./images/roadtrip-3.jpg">
