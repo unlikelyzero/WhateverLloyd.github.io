@@ -1,7 +1,5 @@
 ## Photography, etc.<br/>
 
-### Darkroom<br/>
-
 Results from a DIY darkroom in the Pearson House basement. 2010.<br/>
 <img src="./images/darkroom-5.jpg">
 <img src="./images/darkroom-2.jpg">
