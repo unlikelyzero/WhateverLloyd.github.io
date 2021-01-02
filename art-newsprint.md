@@ -1,8 +1,7 @@
 ## Photography, etc.<br/>
 
-### Newsprint<br/>
-
 Photography published in college's art newspaper. 2011-2012.<br/>
+<br/>
 <img src="./images/metabolism-1.jpg"><br/>
 "In a future where everyone's tired of ice cream from the future." <i>Metabolism</i> 6.3 (2011).<br/>
 
