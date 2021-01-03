@@ -8,7 +8,7 @@ Film from my travels around Southeast Alaska. 2013.<br/>
 <img src="./images/alaska-5.jpg">
 <img src="./images/alaska-6.jpg">
 <img src="./images/alaska-7.jpg">
-<img src="./images/alaska-2.jpg">
+<img src="./images/alaska-11.jpg">
 <img src="./images/alaska-4.jpg">
 <img src="./images/alaska-8.jpg">
 
