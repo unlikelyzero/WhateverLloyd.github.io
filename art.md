@@ -11,4 +11,4 @@
 [Newsprint](./art-newsprint)<br/>
 [Darkroom](./art-darkroom)<br/>
 
-[&#8592;](./maps)     [&#8962;](./index)
+[&#8592; GIS Story Maps](./maps)     [&#8962; Home](./index)
