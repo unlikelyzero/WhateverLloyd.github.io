@@ -10,33 +10,53 @@
 
 **Research Technician**, May 2018 - Dec. 2020 <br/>
 South Carolina Department of Natural Resources, Marine Resources Research Institute (Charleston, SC)<br/>
+- Primary researcher for a Sea Grant-funded project exploring relationships among land cover, climate change, and coastal ecosystems
+- Organized, analyzed, and visualized data using MS Excel, MS Access, and R statistical software
+- Analyzed spatial datasets and created maps using ArcMap and ArcPro GIS software
+- Monitored state's estuaries by boat sampling water quality, taking sediment samples, and trawling for fish and large invertebrates
 
 **Environmental Hydrologist**, Jan. 2020 - Apr. 2020<br/>
 Robinson Design Engineers (Charleston, SC)<br/>
+- Surveyed streams for environmental engineering firms on a mitigation bank project
 
 **Forestry Technician**, May 2017 - Nov. 2017<br/>
 Great Smoky Mountains National Park (Cherokee, NC)<br/>
+- Seasonal forestry position in the Smokies
+- Managed exotic invasive plants and forest pests (e.g., hemlock wooly adelgid)
+- Worked on habitat restoration projects
 
 **Wildlife Biologist**, Nov. 2016 - Apr. 2017<br/>
 The Great Basin Institute (Death Valley, CA)<br/>
+- Seasonal wildlife biologist position for Death Valley National Park
+- Montired park's invasive burro population
+- Built and maintained fencing
+- Wrote park's coyote management plan to address wildlife habituation in the park
+- Used social and printed media to communicate wildlife information to the public
+- Developed an online, wildlife observation database to encourage citizen science
+- Coordinated and led volunteer groups on desert tortoise and rare plant surveys
 
 **Biological Science Technician (Wildlife)**, May 2016 - Nov. 2016<br/>
 Olympic National Park (Port Angeles, WA)<br/>
+- Collected data for an occupancy analysis study on the park's reintroduced fisher population
+- Installed wildlife survey stations with bait, lures, hair snares, and game cameras
+- Recorded, organized, and entered data into MS Access database
+- Performed elk and deer browse and pellet surveys for a habitat restoration project
 
 **Biological Science Technician (Wildlife)**, May 2015 - Oct. 2015<br/>
 Cape Hatteras National Seashore (Buxton, NC)<br/>
-- Seasonal field biologist position
+- Seasonal wildlife biology position on the Outer Banks
+- Surveyed beaches for sea turtle nests and nesting shorebirds
+- Communicated wildlife conservation information to the public
 
 **Biological Science Technician (Wildlife)**, Nov. 2014 - Mar. 2015<br/>
 Haleakala National Park (Kula, HI)<br/>
 - Seasonal internship with the Student Conservation Association (SCA)
+- Managed exotic invasive predator populations through trapping
+- Monitored park's endangered bird species
 
 **Forestry Research Technician**, May 2014 - Oct. 2014<br/>
 Juneau Forestry Sciences Laboratory (Juneau, AK)<br/>
-- Seasonal internship with the SCA
-- Collected forestry data for a long-term, forest regeneration study in the Tongass National Forest
-- Measured tree heights and diameters using DBH tape, laser range finders, and laser dendrometers
-- Identified understory vegetation 
+- Seasonal internship with the SCA collecting forestry data for a forest regeneration study in the Tongass National Forest
 
 **Vegetation Technician**, Sep. 2013 - Apr. 2014<br/>
 Death Valley National Park (Death Valley, CA)<br/>
