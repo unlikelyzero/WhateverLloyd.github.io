@@ -6,6 +6,7 @@
 [Databent](./art-databent)<br/>
 [Death Valley](./art-deathvalley)<br/>
 [Alaska](./art-alaska)<br/>
+[Black Balsam](./art-blackbalsam)<br/>
 [Prints](./art-prints)<br/>
 [Newsprint](./art-newsprint)<br/>
 [Darkroom](./art-darkroom)<br/>
