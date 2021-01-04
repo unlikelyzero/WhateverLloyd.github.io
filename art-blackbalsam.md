@@ -1,5 +1,5 @@
 ## Photography, etc.<br/>
-Backpacking with a camera at black balsam knob. 2012.<br/>
+A foggy backpacking trip at black balsam knob. 2012.<br/>
 <br/>
 <img src="./images/blackbalsam-2.jpg">
 <img src="./images/blackbalsam-1.jpg">
