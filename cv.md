@@ -14,9 +14,6 @@ South Carolina Department of Natural Resources, Marine Resources Research Instit
 **Environmental Hydrologist**, Jan. 2020 - Apr. 2020<br/>
 Robinson Design Engineers (Charleston, SC)<br/>
 
-**Office Assistant**, Aug. 2018 - Dec. 2018<br/>
-The Graduate School at the College of Charleston (Charleston, SC)<br/>
-
 **Forestry Technician**, May 2017 - Nov. 2017<br/>
 Great Smoky Mountains National Park (Cherokee, NC)<br/>
 
@@ -28,21 +25,36 @@ Olympic National Park (Port Angeles, WA)<br/>
 
 **Biological Science Technician (Wildlife)**, May 2015 - Oct. 2015<br/>
 Cape Hatteras National Seashore (Buxton, NC)<br/>
+- Seasonal field biologist position
 
 **Biological Science Technician (Wildlife)**, Nov. 2014 - Mar. 2015<br/>
 Haleakala National Park (Kula, HI)<br/>
+- Seasonal internship with the Student Conservation Association (SCA)
 
 **Forestry Research Technician**, May 2014 - Oct. 2014<br/>
 Juneau Forestry Sciences Laboratory (Juneau, AK)<br/>
+- Seasonal internship with the SCA
+- Collected forestry data for a long-term, forest regeneration study in the Tongass National Forest
+- Measured tree heights and diameters using DBH tape, laser range finders, and laser dendrometers
+- Identified understory vegetation 
 
 **Vegetation Technician**, Sep. 2013 - Apr. 2014<br/>
 Death Valley National Park (Death Valley, CA)<br/>
+- Seasonal internship with the SCA
+- Managed exotic invasive vegatation around Death Valley National Park using herbicides and hand tools
+- Surveyed for rare and endangered plant species
+- Mapped plant populations with GPS
 
 **AmeriCorps Conservation Crew Member**, May 2013 - Sep. 2013<br/>
 SAGA (Juneau, AK)<br/>
+- Built and maintained hiking trails across Southeast Alaska
+- Worked on conservation projects including stream restoration, native plant propogation, and exotic invasive plant removal
 
 **Wildlife Biologist Intern**, May 2012 - Aug. 2012<br/>
 North Carolina Wildlife Resources Commission (Asheville, NC)<br/>
+- Monitored at-risk wildlife populations across Western North Carolina for a summer internship
+- Studied birds, small mammals, reptiles, and amphibians
+- Learned a variety of monitoring techniques including radio telemetry, mist-netting, camera traps, live trapping, and eDNA sampling
 
 ### VOLUNTEER EXPERIENCE
 
