@@ -17,7 +17,7 @@ South Carolina Department of Natural Resources, Marine Resources Research Instit
 
 **Environmental Hydrologist**, Jan. 2020 - Apr. 2020<br/>
 Robinson Design Engineers (Charleston, SC)<br/>
-- Temporary contract surveying streams for an environmental engineering firm on a mitigation bank project
+- Temporary contract position with an environmental engineering firm surveying streams for a mitigation bank project
 - Measured stream dimensions by transect, monitored groundwater wells, assessed riparian vegetation, and collected data on reference stream conditions in nearby Francis Marion National Forest
 
 **Forestry Technician**, May 2017 - Nov. 2017<br/>
