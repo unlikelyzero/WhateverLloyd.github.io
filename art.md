@@ -10,5 +10,6 @@
 [Prints](./art-prints)<br/>
 [Newsprint](./art-newsprint)<br/>
 [Darkroom](./art-darkroom)<br/>
+[Half-frame](./art-halfframe)<br/>
 
 [&#8592;](./maps)     [&#8962;](./index)
