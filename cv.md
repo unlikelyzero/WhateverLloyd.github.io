@@ -11,13 +11,14 @@
 **Research Technician**, May 2018 - Dec. 2020 <br/>
 South Carolina Department of Natural Resources, Marine Resources Research Institute (Charleston, SC)<br/>
 - Primary researcher for a Sea Grant-funded project exploring relationships among land cover, climate change, and coastal ecosystems
-- Organized, analyzed, and visualized data using MS Excel, MS Access, and R statistical software
-- Analyzed spatial datasets and created maps using ArcMap and ArcPro GIS software
-- Monitored state's estuaries by boat sampling water quality, taking sediment samples, and trawling for fish and large invertebrates
+- Compiled, analyzed, and visualized environmental data using Excel, Access, and R
+- Ran spatial analyses and created maps using ArcMap and ArcPro GIS software
+- Worked on a small research vessel collecting environmental data (e.g., water quality, fisheries) across South Carolina's inland coastal waters
 
 **Environmental Hydrologist**, Jan. 2020 - Apr. 2020<br/>
 Robinson Design Engineers (Charleston, SC)<br/>
-- Surveyed streams for environmental engineering firms on a mitigation bank project
+- Temporary contract surveying streams for an environmental engineering firm on a mitigation bank project
+- Measured stream dimensions by transect, monitored groundwater wells, assessed riparian vegetation, and collected data on reference stream conditions in nearby Francis Marion National Forest
 
 **Forestry Technician**, May 2017 - Nov. 2017<br/>
 Great Smoky Mountains National Park (Cherokee, NC)<br/>
@@ -80,27 +81,35 @@ North Carolina Wildlife Resources Commission (Asheville, NC)<br/>
 
 **Botany Assistant**, Dec. 2019<br/>
 Black River Cypress Preserve (Georgetown Co., SC)<br/>
+- Assisted in botanical field surveys at a conservation site
 
 **Oyster Farmer**, Jan. 2019 - May 2019<br/>
 Charleston Oyster Farm (Charleston, SC)<br/>
+- Volunteered on a small oyster farm for an applied mariculture course
 
 **Student Garden Worker**, Jun. 2018 - Sep. 2019<br/>
 The College of Charleston at Stono Preserve (Hollywood, SC)<br/>
+- Volunteered on the College's organic garden preparing beds, planting, weeding, harvesting, and assisting with environmental education events
 
 **Trail Worker**, Feb. 2016 - Mar. 2016<br/>
 Triangle Land Conservancy (Durham, NC)<br/>
+- Built hiking trails during volunteer workdays for a local, non-profit land conservancy
 
 **Conservation Volunteer**, Mar. 2015<br/>
 Maui Forest Bird Recovery Project (Makawao, HI)<br/>
+- Helped with general maintenance tasks for a bird conservation center
 
 **Archaeology Volunteer**, Jul. 2014<br/>
 Denali National Park (Denali Park, AK)<br/>
+- Documented historic mining features in Denali's Kantishna Hills
 
 **Undergraduate Research Assistant**, Jun. 2012 - Jul. 2012<br/>
 University of North Carolina at Asheville (Asheville, NC)<br/>
+- Helped classmate with undergraduate research project collecting data on fish populations in Western North Carolina's streams
 
 **Elementary School Tutor**, Jan. 2012 - May 2012<br/>
 Emma Elementary School (Asheville, NC)<br/>
+- Tutored 2<sup>nd</sup> grade ESL students in reading, writing, and math
 
 ### PRESENTATIONS & PUBLICATIONS
 
