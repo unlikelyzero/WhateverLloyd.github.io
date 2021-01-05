@@ -1,5 +1,5 @@
 ## Photography, etc.<br/>
-Pictures from a Chaika-II half-frame 35mm camera. 2009-2010.<br/>
+Some pictures from a Chaika-II half-frame 35mm camera. 2009-2010.<br/>
 <br/>
 <img src="./images/halfframe-1.jpg">
 <img src="./images/halfframe-2.jpg">
