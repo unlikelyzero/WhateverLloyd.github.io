@@ -1,4 +1,4 @@
-## *Cirriculum Vitae*
+## *Curriculum vitae*
 
 ### EDUCATION
 
@@ -29,7 +29,7 @@ Great Smoky Mountains National Park (Cherokee, NC)<br/>
 **Wildlife Biologist**, Nov. 2016 - Apr. 2017<br/>
 The Great Basin Institute (Death Valley, CA)<br/>
 - Seasonal wildlife biologist position for Death Valley National Park
-- Montired park's invasive burro population
+- Monitored park's invasive burro population
 - Built and maintained fencing
 - Wrote park's coyote management plan to address wildlife habituation in the park
 - Used social and printed media to communicate wildlife information to the public
@@ -62,14 +62,14 @@ Juneau Forestry Sciences Laboratory (Juneau, AK)<br/>
 **Vegetation Technician**, Sep. 2013 - Apr. 2014<br/>
 Death Valley National Park (Death Valley, CA)<br/>
 - Seasonal internship with the SCA
-- Managed exotic invasive vegatation around Death Valley National Park using herbicides and hand tools
+- Managed exotic invasive vegetation around Death Valley National Park using herbicides and hand tools
 - Surveyed for rare and endangered plant species
 - Mapped plant populations with GPS
 
 **AmeriCorps Conservation Crew Member**, May 2013 - Sep. 2013<br/>
 SAGA (Juneau, AK)<br/>
 - Built and maintained hiking trails across Southeast Alaska
-- Worked on conservation projects including stream restoration, native plant propogation, and exotic invasive plant removal
+- Worked on conservation projects including stream restoration, native plant propagation, and exotic invasive plant removal
 
 **Wildlife Biologist Intern**, May 2012 - Aug. 2012<br/>
 North Carolina Wildlife Resources Commission (Asheville, NC)<br/>
