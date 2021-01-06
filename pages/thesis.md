@@ -23,4 +23,4 @@ South Carolina’s growing population has resulted in widespread changes in land
 
 [GitHub Repository](https://github.com/WhateverLloyd/thesis)<br/>
 
-[&#8592;](./pages/cv)     [&#8962;](./index)     [&#8594;](./pages/maps)
+[&#8592;](../pages/cv)     [&#8962;](../index)     [&#8594;](../pages/maps)
