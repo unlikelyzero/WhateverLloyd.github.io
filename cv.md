@@ -17,37 +17,39 @@ South Carolina Department of Natural Resources, Marine Resources Research Instit
 
 **Environmental Hydrologist**, Jan. 2020 - Apr. 2020<br/>
 Robinson Design Engineers (Charleston, SC)<br/>
-- Temporary contract position with an environmental engineering firm surveying streams for a mitigation bank project
+- Temporary contract position with an environmental engineering firm surveying streams for a mitigation bank stream restoration project
 - Measured stream dimensions by transect, monitored groundwater wells, assessed riparian vegetation, and collected data on reference stream conditions in nearby Francis Marion National Forest
 
 **Forestry Technician**, May 2017 - Nov. 2017<br/>
 Great Smoky Mountains National Park (Cherokee, NC)<br/>
-- Seasonal forestry position in the Smokies
-- Managed exotic invasive plants and forest pests (e.g., hemlock wooly adelgid)
-- Worked on habitat restoration projects
+- Seasonal forestry position with the National Park Service
+- Managed exotic invasive plants and forest pests (e.g., hemlock wooly adelgid) with chemical and mechanical treatments
+- Worked on a variety of habitat restoration projects and monitored native plant populations
 
 **Wildlife Biologist**, Nov. 2016 - Apr. 2017<br/>
 The Great Basin Institute (Death Valley, CA)<br/>
-- Seasonal wildlife biologist position for Death Valley National Park
+- Seasonal wildlife biologist position at Death Valley National Park
 - Monitored park's invasive burro population
 - Built and maintained fencing
 - Wrote park's coyote management plan to address wildlife habituation in the park
-- Used social and printed media to communicate wildlife information to the public
-- Developed an online, wildlife observation database to encourage citizen science
-- Coordinated and led volunteer groups on desert tortoise and rare plant surveys
+- Communicated wildlife information to the public via social and printed media
+- Developed an online, wildlife observation database to encourage citizen science in the park
+- Coordinated and led volunteer groups on desert tortoise and endangered plant surveys
 
 **Biological Science Technician (Wildlife)**, May 2016 - Nov. 2016<br/>
 Olympic National Park (Port Angeles, WA)<br/>
-- Collected data for an occupancy analysis study on the park's reintroduced fisher population
+- Seasonal wildlife biology position with the National Park Service
+- Collected data for an occupancy analysis study of the park's reintroduced fisher population
 - Installed wildlife survey stations with bait, lures, hair snares, and game cameras
-- Recorded, organized, and entered data into MS Access database
+- Recorded and entered wildlife and GPS data into park's database
 - Performed elk and deer browse and pellet surveys for a habitat restoration project
 
 **Biological Science Technician (Wildlife)**, May 2015 - Oct. 2015<br/>
 Cape Hatteras National Seashore (Buxton, NC)<br/>
-- Seasonal wildlife biology position on the Outer Banks
+- Seasonal wildlife biology position with the National Park Service
 - Surveyed beaches for sea turtle nests and nesting shorebirds
-- Communicated wildlife conservation information to the public
+- Kept detailed and organized field notes on the National Seashore's wildlife
+- Educated the public on the park's wildlife and the rules to protect it's natural resources
 
 **Biological Science Technician (Wildlife)**, Nov. 2014 - Mar. 2015<br/>
 Haleakala National Park (Kula, HI)<br/>
@@ -57,7 +59,9 @@ Haleakala National Park (Kula, HI)<br/>
 
 **Forestry Research Technician**, May 2014 - Oct. 2014<br/>
 Juneau Forestry Sciences Laboratory (Juneau, AK)<br/>
-- Seasonal internship with the SCA collecting forestry data for a forest regeneration study in the Tongass National Forest
+- Seasonal internship with the SCA collecting data for a long-term, forest regeneration study in the Tongass National Forest
+- Evaluated forest structure using a variety of silvicultural tools (e.g., laser dendrometers, range finders) 
+- Established transects and quadrats to study understory vegetation and wildlife use
 
 **Vegetation Technician**, Sep. 2013 - Apr. 2014<br/>
 Death Valley National Park (Death Valley, CA)<br/>
