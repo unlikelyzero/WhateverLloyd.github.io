@@ -9,4 +9,4 @@
 [My GIS Portfolio](https://arcg.is/1qDiHa0)
 + This story map showcases the different labs and projects I completed during my Introduction to GIS class.<br/>
 
-[&#8592;](./pages/thesis)     [&#8962;](./index)     [&#8594;](./pages/art)
+[&#8592;](../pages/thesis)     [&#8962;](../index)     [&#8594;](../pages/art)
