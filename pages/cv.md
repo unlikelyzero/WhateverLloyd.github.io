@@ -127,4 +127,4 @@ __Hill, K. L.__, Phillips, M., Rence, E., Callahan, T., & Robinson, J., (2018, A
 
 Williams, L. A., Beane, J., Hardman, R., __Hill, K.__, & Stroebel, M., (2012). _Ambystoma opacum_ (marbled salamander) geographic distribution note. _Herpetological Review_, 43(4), 611.<br/>
 
-[&#8592;](./pages/contact)     [&#8962;](./index)     [&#8594;](./pages/thesis)
+[&#8592;](../pages/contact)     [&#8962;](../index)     [&#8594;](../pages/thesis)
