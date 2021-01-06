@@ -1,6 +1,6 @@
 ## Thesis
 
-### "Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast"<br/>
+### Linking land use, climate, and coastal ecosystems: a watershed perspective for a changing South Carolina coast
 
 ### Committee
 
@@ -15,7 +15,9 @@ South Carolina’s growing population has resulted in widespread changes in land
 
 ### Links
 
-<a href="./files/Hill_ThesisDocument_revised2.pdf" target="_blank">PDF</a><br/>
+<a href="./files/Hill_ThesisDocument_revised2.pdf" target="_blank">PDF of Thesis Document</a><br/>
+
+<a href="./files/thesis_presentation_compressed2.pdf" target="_blank">PDF of Thesis Defense Powerpoint</a><br/>
 
 [Thesis Defense Zoom Recording, Aug. 2020](https://cofc.zoom.us/rec/play/LXMIcVVWEl831cCIu4LPiqY1Cp9zD5XkzIMyNwJza71_qTxDxrZXPSnL6BWBAmt7k0LR9aTyHJ6oOTgf.dt9MM7lSXoafXMWo?continueMode=true&_x_zm_rtaid=Q0MYx0kVTraUnroOM-f63w.1609175441645.ea8810ba1beacf0f776152bfa87912ef&_x_zm_rhtaid=24)<br/>
 
