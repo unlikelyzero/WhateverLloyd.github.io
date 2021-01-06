@@ -1,15 +1,15 @@
 ## Photography, etc.
 
-[Charleston](./art-charleston)<br/>
-[Collage](./art-collage)<br/>
-[Roadtrip](./art-roadtrip)<br/>
-[Databent](./art-databent)<br/>
-[Death Valley](./art-deathvalley)<br/>
-[Alaska](./art-alaska)<br/>
-[Black Balsam](./art-blackbalsam)<br/>
-[Prints](./art-prints)<br/>
-[Newsprint](./art-newsprint)<br/>
-[Darkroom](./art-darkroom)<br/>
-[Half-frame](./art-halfframe)<br/>
+[Charleston](../blog/charleston)<br/>
+[Collage](../blog/collage)<br/>
+[Roadtrip](../blog/roadtrip)<br/>
+[Databent](../blog/databent)<br/>
+[Death Valley](../blog/deathvalley)<br/>
+[Alaska](../blog/alaska)<br/>
+[Black Balsam](../blog/blackbalsam)<br/>
+[Prints](../blog/prints)<br/>
+[Newsprint](../blog/newsprint)<br/>
+[Darkroom](../blog/darkroom)<br/>
+[Half-frame](../blog/halfframe)<br/>
 
-[&#8592;](./pages/maps)     [&#8962;](./index)
+[&#8592;](../pages/maps)     [&#8962;](../index)
