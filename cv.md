@@ -49,7 +49,7 @@ Cape Hatteras National Seashore (Buxton, NC)<br/>
 - Seasonal wildlife biology position with the National Park Service
 - Surveyed beaches for sea turtle nests and nesting shorebirds
 - Kept detailed and organized field notes on the National Seashore's wildlife
-- Educated the public on the park's wildlife and the rules to protect it's natural resources
+- Educated the public on the park's wildlife and the rules to protect its natural resources
 
 **Biological Science Technician (Wildlife)**, Nov. 2014 - Mar. 2015<br/>
 Haleakala National Park (Kula, HI)<br/>
